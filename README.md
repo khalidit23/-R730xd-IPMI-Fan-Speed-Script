@@ -1,1 +1,1 @@
-# -R730xd-IPMI-Fan-Speed-Script
+# R730xd-IPMI-Fan-Speed-Script
